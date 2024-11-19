@@ -1,8 +1,8 @@
-import Card from './Card.jsx'
+import Button from "./Button";
 
 function App(){
 
-  return(<Card></Card>);
+  return(<Button></Button>);
 }
 
 export default App
