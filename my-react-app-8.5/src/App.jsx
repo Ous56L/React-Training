@@ -1,7 +1,6 @@
-import UpdaterFunctionCount from "./UpdaterFunctionCount";
-
+import ComponentHook from "./ComponentHook"
 function App(){
 
-  return(<UpdaterFunctionCount/>)
+  return(<ComponentHook/>)
 }
 export default App
